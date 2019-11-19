@@ -1,0 +1,6 @@
+C:\Users\Namn\Desktop\c# vecka1 uppgifter\Exercise 5\Exercise 5\bin\Debug\Exercise 5.exe.config
+C:\Users\Namn\Desktop\c# vecka1 uppgifter\Exercise 5\Exercise 5\bin\Debug\Exercise 5.exe
+C:\Users\Namn\Desktop\c# vecka1 uppgifter\Exercise 5\Exercise 5\bin\Debug\Exercise 5.pdb
+C:\Users\Namn\Desktop\c# vecka1 uppgifter\Exercise 5\Exercise 5\obj\Debug\Exercise 5.csprojAssemblyReference.cache
+C:\Users\Namn\Desktop\c# vecka1 uppgifter\Exercise 5\Exercise 5\obj\Debug\Exercise 5.exe
+C:\Users\Namn\Desktop\c# vecka1 uppgifter\Exercise 5\Exercise 5\obj\Debug\Exercise 5.pdb
