@@ -1,0 +1,6 @@
+C:\Users\Namn\Desktop\OOP 2019\Vecka 2 uppgifter\ex4\ex4\bin\Debug\ex4.exe.config
+C:\Users\Namn\Desktop\OOP 2019\Vecka 2 uppgifter\ex4\ex4\bin\Debug\ex4.exe
+C:\Users\Namn\Desktop\OOP 2019\Vecka 2 uppgifter\ex4\ex4\bin\Debug\ex4.pdb
+C:\Users\Namn\Desktop\OOP 2019\Vecka 2 uppgifter\ex4\ex4\obj\Debug\ex4.csprojAssemblyReference.cache
+C:\Users\Namn\Desktop\OOP 2019\Vecka 2 uppgifter\ex4\ex4\obj\Debug\ex4.exe
+C:\Users\Namn\Desktop\OOP 2019\Vecka 2 uppgifter\ex4\ex4\obj\Debug\ex4.pdb
